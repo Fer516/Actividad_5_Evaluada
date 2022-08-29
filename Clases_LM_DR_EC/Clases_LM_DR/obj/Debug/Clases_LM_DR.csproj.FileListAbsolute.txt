@@ -1,0 +1,7 @@
+C:\Users\MINEDUCYT\Desktop\C#\Clases_LM_DR\Clases_LM_DR\bin\Debug\Clases_LM_DR.exe.config
+C:\Users\MINEDUCYT\Desktop\C#\Clases_LM_DR\Clases_LM_DR\bin\Debug\Clases_LM_DR.exe
+C:\Users\MINEDUCYT\Desktop\C#\Clases_LM_DR\Clases_LM_DR\bin\Debug\Clases_LM_DR.pdb
+C:\Users\MINEDUCYT\Desktop\C#\Clases_LM_DR\Clases_LM_DR\obj\Debug\Clases_LM_DR.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\C#\Clases_LM_DR\Clases_LM_DR\obj\Debug\Clases_LM_DR.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\C#\Clases_LM_DR\Clases_LM_DR\obj\Debug\Clases_LM_DR.exe
+C:\Users\MINEDUCYT\Desktop\C#\Clases_LM_DR\Clases_LM_DR\obj\Debug\Clases_LM_DR.pdb
